@@ -10,6 +10,6 @@ import { CommonModule } from '@angular/common';
 })
 export class AppComponent {
   title = 'angular-introduction';
-  name: string = "Christantis";
+  name: string = "Xristantis";
   lastname = "Elenis";
 }
